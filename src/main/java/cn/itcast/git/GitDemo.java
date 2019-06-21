@@ -5,5 +5,7 @@ public class GitDemo {
         System.out.println("---------");
         System.out.println("^^^^=====^^^^");
         System.out.println("master modify main!");
+        System.out.println("你好,我来啦....");
+        System.out.println("你讲的真好...");
     }
 }
